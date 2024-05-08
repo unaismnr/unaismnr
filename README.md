@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Unais</h1>
 <h3 align="center">Flutter Developer</h3>
 
-<h5 align="center">Flutter Developer with a passion for crafting stunning cross-platform applications. Skilled in Dart programming, UI/UX design, and application architecture. Committed to staying ahead of industry trends and delivering innovative solutions. Let's collaborate!</h5>
+<p align="center">Flutter Developer with a passion for crafting stunning cross-platform applications. Skilled in Dart programming, UI/UX design, and application architecture. Committed to staying ahead of industry trends and delivering innovative solutions. Let's collaborate!</p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently exploring **Flutter**
 
 - 💬 Ask me about **Dart and Flutter**
 
@@ -13,6 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/unaismnr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="unaismnr" height="30" width="40" /></a>
 <a href="https://instagram.com/unais_mnr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unais_mnr" height="30" width="40" /></a>
+  <a href="https://wwwfacebook.com/c/unaismnr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="unaismnr" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/unaismnr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="unaismnr" height="30" width="40" /></a>
 </p>
 
