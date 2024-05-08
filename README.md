@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Unais</h1>
 <h3 align="center">Flutter Developer</h3>
 
+<h5 align="center">Flutter Developer with a passion for crafting stunning cross-platform applications. Skilled in Dart programming, UI/UX design, and application architecture. Committed to staying ahead of industry trends and delivering innovative solutions. Let's collaborate!</h5>
+
 - 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Dart and Flutter**
